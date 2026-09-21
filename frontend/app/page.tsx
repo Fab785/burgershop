@@ -110,7 +110,7 @@ export default function Home() {
           {/* Real burger */}
           <div className="relative z-10 w-full max-w-[620px]">
             <Image
-              src="/hero-burger-clean.png"
+              src="/hero-burger.png"
               alt="Fab Burger signature burger"
               width={700}
               height={700}
