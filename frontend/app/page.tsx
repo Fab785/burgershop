@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Fab4 from "./Fab4";
 
 export default function Home() {
   return (
@@ -132,6 +133,9 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+        {/* FAB 4 */}
+        <Fab4 />
 
       {/* Bottom marquee */}
       <div className="border-y border-[#174C3A]/20 bg-[#F5B83D] py-4 text-[#174C3A]">
