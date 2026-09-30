@@ -2,7 +2,7 @@ const fab4Items = [
     {
       name: "MR. FANTASTIC",
       subtitle: "THE LONG ONE",
-      description: "Ridiculously long. Completely loaded. Zero chance of sharing.",
+      description: "Ridiculously long. Seriously. We had to shorten the picture.",
       image: "/mr-fantastic.png",
       imageAlt: "Mr. Fantastic loaded long hot dog",
       layout: "left",
